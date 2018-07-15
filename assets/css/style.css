@@ -222,9 +222,10 @@ input[type=submit] {
     text-align: center;
   }
   nav{
-    float: left; 
-    margin-left: 300px; 
-    
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 100%;
   }
   .container{
     width: 100%;
@@ -244,8 +245,10 @@ input[type=submit] {
     text-align: center;
   }
   nav{
-   float: left; 
-   margin-left: 170px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 100%;
   }
   .container{
     width: 100%;
@@ -266,8 +269,10 @@ input[type=submit] {
     
   }
   nav{
-    float: left;
-    margin-left:85px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 100%;
     
   }
   .container{
